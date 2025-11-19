@@ -32,3 +32,10 @@ The website provides access to institutional information, research programs, lab
 ## 📌 Hosting & Deployment
 
 The website is deployed on a **dedicated VPS hosting serve**
+
+## 👨‍💻 Developer
+
+**Simachew Tenagne**  
+System Administrator & Web Developer  
+Armauer Hansen Research Institute (AHRI)  
+GitHub: https://github.com/Simachew1
